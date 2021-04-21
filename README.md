@@ -21,6 +21,6 @@ Règler une temperature avec le potentiometre, si elle est inferieur à celle de
 ## Exercice 5
 Envoyer la valeur du potentiometre sur le moniteur Serie.
 
-## Exercice 5
+## Exercice 5 bis
 Agir sur le ServoMoteur, la LED et le Relay avec des instructions tapées dans le moniteur Série.
 
